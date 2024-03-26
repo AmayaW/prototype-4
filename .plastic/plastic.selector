@@ -1,0 +1,4 @@
+repository "prototype-4@nikington@cloud"
+  path "/"
+    br "/main"
+    co "/main"
